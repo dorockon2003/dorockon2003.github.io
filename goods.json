@@ -1,0 +1,30 @@
+{
+	"1234": {
+		"name": "камера",
+		"cost": 2099,
+		"description": "KamKids «Мишка»",
+		"order": 3,
+		"img": "cam5.png",
+	},
+	"1235": {
+		"name": "камера",
+		"cost": 1111,
+		"description": "KamKids «Мишка»",
+		"order": 3,
+		"img": "cam4.png",
+	},
+	"1236": {
+		"name": "камера",
+		"cost": 2222,
+		"description": "KamKids «Мишка»",
+		"order": 3,
+		"img": "cam3.png",
+	},
+	"1237": {
+		"name": "камера",
+		"cost": 2333,
+		"description": "KamKids «Мишка»",
+		"order": 3,
+		"img": "cam2.png",
+	},
+}
